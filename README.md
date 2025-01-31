@@ -4,5 +4,5 @@ This project integrates OpenAI Whisper for speech-to-text conversion, enabling r
 Features
 ✅ Converts speech to text with high accuracy
 ✅ Supports multiple languages, including Urdu & Hindi
-✅ Works with recorded and live audio
+✅ Works with pre-recorded audio
 ✅ Can be integrated with assistive technologies
