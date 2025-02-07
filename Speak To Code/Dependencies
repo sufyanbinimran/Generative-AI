@@ -1,0 +1,20 @@
+Dependencies to Install Before Running the Project
+Before running the Speak-to-Code Generator, install the required dependencies using the following command:
+pip install streamlit sounddevice numpy scipy openai-whisper google-generativeai 
+
+
+Dependencies Overview:
+streamlit → For UI
+sounddevice → To record audio
+numpy & scipy → Audio processing
+openai-whisper → Speech-to-text transcription
+google-generativeai → AI code generation
+ffmpeg → Required for Whisper
+Now you're ready to run the project! 🚀
+
+
+
+
+
+
+
